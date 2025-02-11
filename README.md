@@ -16,7 +16,7 @@ Add `imin_cash_drawer` to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  imin_cash_drawer: 0.0.1
+  imin_cash_drawer: 0.0.2
 ```
 
 Then, run:
