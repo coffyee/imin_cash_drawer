@@ -20,7 +20,7 @@ class CashDrawerPage extends StatefulWidget {
   const CashDrawerPage({Key? key}) : super(key: key);
 
   @override
-  _CashDrawerPageState createState() => _CashDrawerPageState();
+  State<CashDrawerPage> createState() => _CashDrawerPageState();
 }
 
 class _CashDrawerPageState extends State<CashDrawerPage> {
